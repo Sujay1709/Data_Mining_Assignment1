@@ -2,6 +2,10 @@
 .ipynb_checkpoints/
 __pycache__/
 *.pyc
-.conda/
-.venv/
-venv/
+
+# datasets / outputs
+train.csv
+test.csv
+
+# PDFs (optional)
+*.pdf
